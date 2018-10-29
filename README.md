@@ -1,3 +1,3 @@
-This is a portfolio website for Alyssa Watson. It is viewable at alyssawatson.info.
+This is a portfolio website for Alyssa Watson. It is viewable at alyssawatsonlee.com.
 
-Email: alyssa.s.watson@gmail.com
+Email: alyssawatsonlee@gmail.com
